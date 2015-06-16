@@ -1,4 +1,4 @@
 # pather
 
-##### My working solution to Praxent's initial coding challenge.
+##### My working solution to a coding challenge.
 ##### Written in Ruby.
