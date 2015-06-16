@@ -1,5 +1,4 @@
 #!/usr/bin/env ruby
-# Successfully runs in the shell when I type 'ruby pather.rb input.txt output.txt'
 # Requires an empty output.txt file.
 
 class Board
